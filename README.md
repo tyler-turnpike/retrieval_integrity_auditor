@@ -1,9 +1,3 @@
-Perfect — here is a **clean, complete, GitHub-ready `README.md`** for your project.
-
-You can **copy-paste this entire file** into `README.md`.
-It fixes the Mermaid error, documents Track-3 properly, and explains usage clearly.
-
----
 
 # Retrieval Integrity Auditor for RAG Systems
 
