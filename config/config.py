@@ -1,0 +1,15 @@
+# Models
+OPENAI_CHAT_MODEL = "gpt-4o-mini"
+OPENAI_EMBEDDING_MODEL = "text-embedding-3-small"
+
+# Chunking
+CHUNK_SIZE = 400
+CHUNK_OVERLAP = 50
+
+# Similarity thresholds
+SUPPORTED_THRESHOLD = 0.75
+PARTIAL_THRESHOLD = 0.55
+NOISE_THRESHOLD = 0.50
+
+# Retrieval
+TOP_K_VECTOR_SEARCH = 5
